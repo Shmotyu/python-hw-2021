@@ -40,10 +40,8 @@ print()
 
 create(a)
 point = (m // 2)
-h = -1
 current = 0
 for i in range(n):
-     h += 1
      if (i <= point):
         current = i
      else:
